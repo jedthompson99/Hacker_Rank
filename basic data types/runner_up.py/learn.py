@@ -39,7 +39,7 @@ print(mx2)
 # print(max(a))
 
 
-# Example 3
+# Example 3 - GeorgianB
 n = int(input())
 a = map(int, input().strip().split())
 a = list(a)
