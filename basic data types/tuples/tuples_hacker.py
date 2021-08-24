@@ -4,6 +4,3 @@ if __name__ == '__main__':
     T = tuple(integer_list)
 
     print(hash(T))
-
-    # 3
-    # 1 2 3
